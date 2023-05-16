@@ -1,0 +1,57 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    
+}
+.sayt
+{
+    max-width: 1920px;
+    background-color: aquamarine;
+    padding: 20px;
+    
+}
+.content
+{
+    background-color: #fff;
+    width: 90%;
+    border-radius: 50px;
+    text-align: center;
+}
+
+ul
+{
+    list-style: none;
+}
+li
+{
+    display: inline-block;
+    margin: 50px;
+    
+}
+li:nth-child(2)
+{
+    
+    margin: 0px 100px;
+}
+p
+{
+
+    margin: 50px 18px;
+}
+.price
+{
+    font-size: 30px;
+    color: red;
+}
+img{
+    border-radius: 40px;
+}
+h1
+{
+    color: green;
+}
+h1:nth-child(3)
+{
+    color: blue;
+}
